@@ -41,6 +41,7 @@ class IndeedBot:
 
         # ------------------------------ DATA BOX ------------------------------------------
 
+        # Dataframe
         df = pd.DataFrame({'Link': [''], 'Title': [''], 'Company': [''], 'Location': [''], 'Salary': ['']})
 
         while True:
